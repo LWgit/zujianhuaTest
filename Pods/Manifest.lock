@@ -1,0 +1,16 @@
+PODS:
+  - zjNetWork (0.1.0)
+
+DEPENDENCIES:
+  - zjNetWork (from `Lib/zjNetWork`)
+
+EXTERNAL SOURCES:
+  zjNetWork:
+    :path: Lib/zjNetWork
+
+SPEC CHECKSUMS:
+  zjNetWork: e6f40937538a80e1a0bde76734d78371b97517ed
+
+PODFILE CHECKSUM: 3a3593d0fb67ecd6d3e37a52f2b7cb7efc8345d7
+
+COCOAPODS: 1.10.0

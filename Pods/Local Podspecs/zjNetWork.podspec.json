@@ -1,0 +1,22 @@
+{
+  "name": "zjNetWork",
+  "version": "0.1.0",
+  "summary": "A short description of zjNetWork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lavi.dai/zjNetWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lavi.dai": "https://github.com/lwgit/ah.git"
+  },
+  "source": {
+    "git": "https://github.com/lavi.dai/zjNetWork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "zjNetWork/Classes/**/*"
+}
